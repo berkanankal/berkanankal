@@ -1,17 +1,10 @@
-### Hi there 👋 I'm Berkan Ankal.
-
-I’m interested in Fullstack Development
+<h1>Hi there 👋, I'm Berkan Ankal</h1>
+<h3>I’m interested in Fullstack Development</h3>
 
 - 🌱 I’m currently learning **JavaScript, React.js, Node.js**
 - 📫 How to reach me **berkan.ankal@outlook.com**
 
 ---
-
-<h1 align="center">Hi there 👋, I'm Berkan Ankal</h1>
-<h3 align="center">I’m interested in Fullstack Development</h3>
-
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
-- 📫 How to reach me **berkan.ankal@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
