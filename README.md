@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm Berkan Ankal</h1>
 <h3>I’m interested in Fullstack Development</h3>
 
-- 🌱 I’m currently learning **JavaScript, React.js, Node.js**
+- 🌱 I’m currently learning **Node.js, Material UI**
 - 📫 How to reach me **berkan.ankal@outlook.com**
 
 ---
