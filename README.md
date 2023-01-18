@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Berkan Ankal</h1>
+<h1>Hi there 👋
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
