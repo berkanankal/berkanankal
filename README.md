@@ -1,10 +1,4 @@
 <h1>Hi there 👋, I'm Berkan Ankal</h1>
-<h3>I’m interested in Fullstack Development</h3>
-
-- 🌱 I’m currently learning **React Native**
-- 📫 How to reach me **berkan.ankal@outlook.com**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
