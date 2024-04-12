@@ -1,13 +1,13 @@
+<img src="https://i.imgur.com/l8Zjbpx.gif" width="auto"   />
 
-  <img src="https://i.imgur.com/l8Zjbpx.gif" width="auto"   />
-
-
-
-## Connect with me
+## 📱 Connect with me
 <p align="left">
-  
+
+<a></a>
+<a href="mailto:berkan.ankal@outlook.com">![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)</a>
 <a href="https://linkedin.com/in/berkan-ankal">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/berkanankal">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+
   
 </p>
 
